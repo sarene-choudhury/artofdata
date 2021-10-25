@@ -66,6 +66,9 @@ def digimon_teams():
     print(digimon_teams())       
 ~~~
 
+https://stackoverflow.com/questions/19843457/counting-how-many-values-were-attributed-to-a-key-an-a-python-3-2-dictionary (helped me set up second problem)
+https://www.geeksforgeeks.org/python-program-to-print-all-possible-combinations-from-the-three-digits/ (how I figured out the third problem)
+
 ## Final Thoughts
 
 This lab was definitely a challenge for me, and I think that my greatest downfall was that I tried to approach everything in a very manual way. That meant that my code was inefficient, and I also wasn't very good at finding errors. I think that when approaching the next project, I'll try and use pseudocode in a more serious way, and hopefully as a result, reach the most efficient code quicker. Overall, this was a fun learning experience and I learned a lot about how I want to code in the future.
