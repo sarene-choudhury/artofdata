@@ -39,7 +39,9 @@ The only relationship between the variables that I observed in the data was how,
 
 ## d) Visualizations of the dataset
 
-I found that violin plots were very helpful versus using scatterplots, and so I made them for each variable, as well as the total, to get the overarching picture of the differences between good, bad, and neutral.
+I found that violin plots were very helpful versus, for example, using scatterplots, and so I made them for each variable, as well as the total, to get the overarching picture of the differences between good, bad, and neutral.
+
+"/assets/img/avatar-icon.png"
 
 
 ## e) Limitations of your analysis and the dataset
