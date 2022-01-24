@@ -39,17 +39,7 @@ The only relationship between the variables that I observed in the data was how,
 
 ## d) Visualizations of the dataset
 
-I found that violin plots were very helpful versus, for example, using scatterplots, and so I made them for each variable, as well as the total, to get the overarching picture of the differences between good, bad, and neutral.
-
-Figure 1: "/assets/img/Screen Shot 2022-01-23 at 9.54.18 PM.png"
-
-Figure 2: "/assets/img/Screen Shot 2022-01-23 at 9.54.24 PM.png"
-Figure 3: "/assets/img/avatar-icon.png"
-Figure 4: "/assets/img/avatar-icon.png"
-Figure 5: "/assets/img/avatar-icon.png"
-Figure 6: "/assets/img/avatar-icon.png"
-Figure 7: "/assets/img/avatar-icon.png"
-Figure 8: "/assets/img/avatar-icon.png"
+I found that violin plots were very helpful versus, for example, using scatterplots, and so I made them for each variable, as well as the total, to get the overarching picture of the differences between good, bad, and neutral. Since I wasn't looking for trends with the variables themselves, scatterplots ended up having no particular trend and so they didn't do much for me in terms of analysis, examples of which are at the end of my code.
 
 
 ## e) Limitations of your analysis and the dataset
